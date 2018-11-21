@@ -1,0 +1,22 @@
+{
+    "name": "ifapme2018-dev",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "dependencies": {
+        "vuepress": "^0.14.4",
+        "vue": "^2.5.17"
+    },
+    "devDependencies": {
+        "eslint": "^5.8.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-plugin-import": "^2.14.0",
+        "eslint-plugin-node": "^8.0.0",
+        "eslint-plugin-promise": "^4.0.1",
+        "eslint-plugin-standard": "^4.0.0",
+        "eslint-plugin-vue": "^4.7.1"
+    }
+}
